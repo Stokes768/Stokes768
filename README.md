@@ -1,6 +1,6 @@
 - Hi, I’m @Stokes768
-- I’m interested in Software developement 
-- I’m currently learning to use Java to build larger scale databases
+- I’m interested in Software Developement/Cyber Security
+- The languages I am comfortable using include C, C++, Java, and JavaScript
 - You can reach me with astokes121212@gmail.com
 
 <!---
